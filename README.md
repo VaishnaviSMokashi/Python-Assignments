@@ -10,3 +10,8 @@ Task 2: Sum of Integers from 1 to 50 Using a Loop
 3] Assignment_3 includes :  Functions & Modules in Python.
 Task 1: Calculate Factorial Using a Function
 Task 2: Using the Math Module for Calculations
+
+4] Assignment_4 includes : Files, Exceptions, and Errors in Python.
+Task 1: Read a File and Handle Errors 
+Task 2: Write and Append Data to a File
+
